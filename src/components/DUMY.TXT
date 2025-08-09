@@ -1,0 +1,38 @@
+
+
+
+ {/* Left Content */}
+          {/* <div className="space-y-8">
+            <div className="space-y-4">
+              <p className="text-sm font-inter tracking-widest text-brand-secondary uppercase">
+                Discover the Linden Sofa
+              </p>
+              <h1 className="text-6xl lg:text-7xl font-playfair font-medium text-brand-primary leading-tight">
+                Elevate
+              </h1>
+              <p className="text-lg text-brand-secondary font-inter leading-relaxed max-w-md">
+                Experience comfort redefined with our contemporary furniture collection. 
+                Crafted with precision and designed for modern living.
+              </p>
+            </div>
+            
+            <div className="space-y-4">
+              <button className="btn-primary">
+                Shop Collection
+              </button>
+              <div className="flex items-center space-x-4 text-sm text-brand-secondary">
+                <span>Free shipping on orders over $999</span>
+              </div>
+            </div>
+          </div>
+          
+          <div className="relative">
+            <img 
+              src={heroSofa} 
+              alt="Linden Sofa - Modern beige sectional sofa" 
+              className="w-full h-auto rounded-sm shadow-lg"
+            />
+            <div className="absolute top-4 right-4 bg-white px-3 py-1 rounded-sm shadow-sm">
+              <span className="text-sm font-medium text-brand-primary">New</span>
+            </div>
+          </div> */}

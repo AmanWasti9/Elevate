@@ -1,0 +1,18 @@
+{
+  "title": "Introducing the Liana Loveseat: Comfort",
+  "description": "Indulge in our premium armchair collection, where each piece combines exceptional craftsmanship with contemporary design. Limited time sale - save up to 30% on selected items.",
+  "chairs": [
+    { "id": 1, "name": "Liana Armchair", "price": "$899", "originalPrice": "$1,199", "image": "/images/liana-armchair.png" },
+    { "id": 2, "name": "Garden Chair", "price": "$749", "originalPrice": "$999", "image": "/images/garden-chair.png" },
+    { "id": 3, "name": "Heritage Seat", "price": "$1,099", "originalPrice": "$1,399", "image": "/images/heritage.png" },
+    { "id": 4, "name": "Comfort Plus", "price": "$649", "originalPrice": "$899", "image": "/images/comfort-plus.png" },
+    { "id": 5, "name": "Modern Classic", "price": "$799", "originalPrice": "$1,099", "image": "/images/modern-classic.png" },
+    { "id": 6, "name": "Urban Lounge", "price": "$949", "originalPrice": "$1,249", "image": "/images/urban-lounge-chairs.png" }
+  ],
+  "newsletter": {
+    "title": "Stay Updated with Our Latest Collections",
+    "description": "Be the first to know about new arrivals, exclusive sales, and design inspiration. Join our community of furniture enthusiasts.",
+    "placeholder": "Enter your email"
+  },
+  "ctaButton": "Shop All Armchairs"
+}

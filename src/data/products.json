@@ -1,0 +1,198 @@
+{
+  "products": [
+    {
+      "id": "linden-sofa",
+      "name": "Linden Collection Sofa",
+      "category": "Sofa",
+      "price": 1299,
+      "image": "/images/cream-sofa.jpg",
+      "description": "Experience unparalleled comfort with the Linden Collection sofa, featuring a thoughtfully designed silhouette and premium materials.",
+      "specifications": {
+        "materials": [
+          "Premium fabric/leather upholstery",
+          "Solid wood frame with reinforced corners",
+          "High-density foam cushioning",
+          "Stain-resistant and durable fabric"
+        ],
+        "dimensions": {
+          "width": "88\" (223.5 cm)",
+          "depth": "38\" (96.5 cm)",
+          "height": "34\" (86.4 cm)",
+          "seatHeight": "18\" (45.7 cm)"
+        },
+        "careInstructions": [
+          "Regular vacuuming recommended",
+          "Spot clean with mild detergent",
+          "Avoid direct sunlight",
+          "Rotate cushions regularly for even wear"
+        ]
+      },
+      "features": [
+        {
+          "title": "Premium Comfort",
+          "description": "High-density foam cushions with fiber wrap for lasting comfort"
+        },
+        {
+          "title": "Durable Construction",
+          "description": "Solid hardwood frame with reinforced joints for stability"
+        },
+        {
+          "title": "Easy Maintenance",
+          "description": "Removable, machine-washable covers"
+        }
+      ]
+    },
+    {
+      "id": "premium-armchair",
+      "name": "Premium Armchair",
+      "category": "Armchair",
+      "price": 899,
+      "image": "/images/brown-armchair.jpg",
+      "description": "Elevate your living space with our premium armchair, combining contemporary design with exceptional comfort.",
+      "specifications": {
+        "materials": [
+          "Top-grain leather upholstery",
+          "Solid hardwood frame",
+          "High-resilience foam cushions",
+          "Polished stainless steel base"
+        ],
+        "dimensions": {
+          "width": "32\" (81 cm)",
+          "depth": "35\" (89 cm)",
+          "height": "32\" (81 cm)",
+          "seatHeight": "18\" (46 cm)"
+        },
+        "weightCapacity": "350 lbs (159 kg)",
+        "warranty": "5 years limited"
+      },
+      "features": [
+        {
+          "title": "Ergonomic Design",
+          "description": "Contoured for optimal back support and comfort"
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Genuine top-grain leather with natural variations"
+        },
+        {
+          "title": "Sturdy Base",
+          "description": "Polished stainless steel with non-slip feet"
+        }
+      ],
+      "annotations": [
+        {
+          "id": 1,
+          "top": "30%",
+          "left": "20%",
+          "title": "Premium Leather",
+          "description": "Top-grain leather upholstery for ultimate comfort and durability"
+        },
+        {
+          "id": 2,
+          "top": "40%",
+          "left": "80%",
+          "title": "Ergonomic Support",
+          "description": "Ergonomic back support with adjustable recline"
+        },
+        {
+          "id": 3,
+          "top": "70%",
+          "left": "25%",
+          "title": "Sturdy Base",
+          "description": "Sturdy wooden legs with polished metal accents"
+        },
+        {
+          "id": 4,
+          "top": "20%",
+          "left": "50%",
+          "title": "Comfort Cushions",
+          "description": "High-density foam cushions for maximum comfort"
+        }
+      ]
+    },
+    {
+      "id": "chesterfield-sofa",
+      "name": "Classic Chesterfield Sofa",
+      "category": "Sofa",
+      "price": 1599,
+      "image": "/images/chesterfield-sofa.jpg",
+      "description": "Bring timeless elegance to your home with the Chesterfield sofa, featuring deep button tufting and rolled arms.",
+      "specifications": {
+        "materials": [
+          "Genuine leather upholstery",
+          "Solid wood frame",
+          "High-density foam with feather blend",
+          "Brass nailhead trim"
+        ],
+        "dimensions": {
+          "width": "90\" (228.6 cm)",
+          "depth": "37\" (94 cm)",
+          "height": "30\" (76 cm)",
+          "seatHeight": "17\" (43 cm)"
+        },
+        "careInstructions": [
+          "Dust regularly with a soft cloth",
+          "Condition leather twice a year",
+          "Avoid direct sunlight",
+          "Rotate cushions regularly"
+        ]
+      },
+      "features": [
+        {
+          "title": "Iconic Design",
+          "description": "Rolled arms and deep button tufting for a luxurious look"
+        },
+        {
+          "title": "Premium Leather",
+          "description": "Full-grain leather that ages beautifully over time"
+        },
+        {
+          "title": "Comfortable Seating",
+          "description": "Plush cushions for all-day comfort"
+        }
+      ]
+    },
+    {
+      "id": "modular-lounge-sofa",
+      "name": "Modular Lounge Sofa",
+      "category": "Sofa",
+      "price": 1899,
+      "image": "/images/modular-lounge-sofa.png",
+      "description": "Customize your seating experience with the Modular Lounge sofa, designed for versatility and modern living.",
+      "specifications": {
+        "materials": [
+          "Performance fabric upholstery",
+          "Kiln-dried hardwood frame",
+          "High-density foam with polyester wrap",
+          "Modular connectors for rearrangement"
+        ],
+        "dimensions": {
+          "width": "120\" (304.8 cm)",
+          "depth": "40\" (101.6 cm)",
+          "height": "34\" (86.4 cm)",
+          "seatHeight": "18\" (45.7 cm)"
+        },
+        "careInstructions": [
+          "Spot clean with a damp cloth",
+          "Machine wash removable covers",
+          "Avoid bleach and harsh chemicals",
+          "Reposition modules to maintain shape"
+        ]
+      },
+      "features": [
+        {
+          "title": "Customizable Layout",
+          "description": "Easily rearrange modules to fit your space"
+        },
+        {
+          "title": "Durable Fabric",
+          "description": "Stain-resistant and pet-friendly material"
+        },
+        {
+          "title": "Deep Seating",
+          "description": "Extra-deep seats for lounging and relaxation"
+        }
+      ]
+    }
+  ]
+}
