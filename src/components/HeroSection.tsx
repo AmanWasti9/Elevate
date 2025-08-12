@@ -4,7 +4,7 @@ import { ScrollAnimation } from "./ui/scroll-animation";
 
 const HeroSection = () => {
   return (
-    <section className="relative h-screen flex items-left justify-left overflow-hidden">
+    <section id="hero" className="relative h-screen flex items-left justify-left overflow-hidden">
       {/* Background Image with subtle zoom effect */}
       <motion.div
         className="absolute inset-0 bg-cover bg-center z-0"
@@ -23,7 +23,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-black bg-opacity-30 z-10"></div>
 
       {/* Content */}
-      <div className="relative z-20 text-left text-white px-8 md:px-20 py-8 w-full max-w-4xl">
+      <div className="relative z-20 text-left text-white px-8 md:px-36 py-8 w-full max-w-4xl">
         <ScrollAnimation delay={0.2} direction="left">
           <h1 className="text-2xl md:text-4xl font-bold mb-4">
             Discover the Defon Sofa:

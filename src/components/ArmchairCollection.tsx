@@ -25,7 +25,7 @@ const ArmchairCollection = () => {
   const { title, description, chairs, newsletter, ctaButton } = collectionData as CollectionData;
 
   return (
-    <section className="bg-white py-20">
+    <section id="armchairs" className="bg-white py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-playfair font-medium text-brand-primary mb-6">
